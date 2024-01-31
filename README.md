@@ -31,4 +31,4 @@ Aspida's efficient liquid staking protocol offers a range of features that make 
 
 Join Aspida, let your staking cybersecurity be assured from this moment.
 
-[Website](https://aspidanet.com/#/)丨[Staking App](https://app.aspidanet.com/)丨[Discord](https://discord.com/invite/UrYn3KjagY)丨[Telegram](https://t.me/aspida_net)丨[Twitter](https://twitter.com/aspida_net)丨[Blog](https://blog.aspidanet.com/)丨[Medium](https://medium.com/@aspidabd)丨[Documentation](https://docs.aspidanet.com)
+[Website](https://aspidanet.com/#/)丨[Staking App](https://app.aspidanet.com/)丨[Discord](https://discord.com/invite/UrYn3KjagY)丨[Telegram](https://t.me/aspida_net)丨[Twitter](https://twitter.com/aspidanet)丨[Blog](https://blog.aspidanet.com/)丨[Medium](https://medium.com/@aspidabd)丨[Documentation](https://docs.aspidanet.com)
